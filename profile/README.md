@@ -51,7 +51,7 @@ QR-based, GPS-verified classroom attendance tracking system.
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB8DE&height=120&section=footer" width="100%" alt="Footer Wave"/>
   <br />
   <p><i>Thanks for stopping by CodeBridge-Lab! 🚀</i></p>
 </div>
