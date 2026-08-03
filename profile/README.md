@@ -16,39 +16,45 @@
 
 ---
 
-<!-- Side-by-Side Projects & Contributors Container -->
+<!-- Side-by-Side Main Container -->
 <table width="100%">
   <tr>
+    <th width="50%" align="left"><h3>🚀 Featured Repositories</h3></th>
+    <th width="50%" align="left"><h3>👥 Project Contributors</h3></th>
+  </tr>
+  <tr>
+    <!-- Left Column: Stacked Project Details -->
     <td width="50%" valign="top">
-      <h3>🚀 Featured Repositories</h3>
       <table width="100%">
-        <tr>
-          <th width="30%">Project</th>
-          <th width="45%">Description</th>
-          <th width="25%">Tech Stack</th>
-        </tr>
         <tr>
           <td>
             <a href="https://github.com/CodeBridge-Lab/qr-attendance">
               <b>📱 qr-attendance</b>
             </a>
           </td>
-          <td>QR-based, GPS-verified classroom attendance tracking system.</td>
+        </tr>
+        <tr>
           <td>
-            <img src="https://img.shields.io/badge/Spring--Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /><br />
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br />
+            QR-based, GPS-verified classroom attendance tracking system.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/Spring--Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
           </td>
         </tr>
       </table>
     </td>
+
+    <!-- Right Column: Project Contributors -->
     <td width="50%" valign="top">
-      <h3>👥 Project Contributors</h3>
       <table width="100%">
         <tr>
           <td align="center" width="80px">
             <a href="https://github.com/BristiGhosh604">
-              <img src="https://github.com/BristiGhosh604.png?size=80" width="60px" style="border-radius: 50%;" alt="Bristi Ghosh"/><br />
+              <img src="https://github.com/BristiGhosh604.png?size=80" width="55px" style="border-radius: 50%;" alt="Bristi Ghosh"/><br />
               <sub><b>Bristi Ghosh</b></sub>
             </a>
           </td>
@@ -60,7 +66,7 @@
         <tr>
           <td align="center" width="80px">
             <a href="https://github.com/Lokesh-069">
-              <img src="https://github.com/Lokesh-069.png?size=80" width="60px" style="border-radius: 50%;" alt="Lokesh Hazra"/><br />
+              <img src="https://github.com/Lokesh-069.png?size=80" width="55px" style="border-radius: 50%;" alt="Lokesh Hazra"/><br />
               <sub><b>Lokesh Hazra</b></sub>
             </a>
           </td>
@@ -72,7 +78,7 @@
         <tr>
           <td align="center" width="80px">
             <a href="https://github.com/Sreoshi170">
-              <img src="https://github.com/Sreoshi170.png?size=80" width="60px" style="border-radius: 50%;" alt="Sreoshi Bhowmik"/><br />
+              <img src="https://github.com/Sreoshi170.png?size=80" width="55px" style="border-radius: 50%;" alt="Sreoshi Bhowmik"/><br />
               <sub><b>Sreoshi Bhowmik</b></sub>
             </a>
           </td>
