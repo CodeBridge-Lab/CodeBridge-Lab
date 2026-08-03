@@ -16,11 +16,11 @@
 
 <table width="100%">
 <tr>
-<th width="50%" align="left"><h3>🚀 Featured Repositories</h3></th>
-<th width="50%" align="left"><h3>👥 Project Contributors</h3></th>
+<th width="45%" align="left"><h3>🚀 Featured Repositories</h3></th>
+<th width="55%" align="left"><h3>👥 Project Contributors</h3></th>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 <br />
 <a href="https://github.com/CodeBridge-Lab/qr-attendance"><b>📱 qr-attendance</b></a>
 <br /><br />
@@ -30,16 +30,21 @@ QR-based, GPS-verified classroom attendance tracking system.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </td>
-<td width="50%" valign="top">
-<br />
-• <a href="https://github.com/BristiGhosh604"><b>Bristi Ghosh</b></a> — <i>Project Founder & Backend Lead</i><br />
-<img src="https://img.shields.io/badge/Focus-Backend%20%26%20APIs-blue?style=flat-square" alt="Backend Focus" />
-<br /><br />
-• <a href="https://github.com/Lokesh-069"><b>Lokesh Hazra</b></a> — <i>Frontend Lead & UI Architect</i><br />
-<img src="https://img.shields.io/badge/Focus-React%20%26%20UI%20Architecture-brightgreen?style=flat-square" alt="Frontend Focus" />
-<br /><br />
-• <a href="https://github.com/Sreoshi170"><b>Sreoshi Bhowmik</b></a> — <i>Frontend Lead & UI/UX Design</i><br />
-<img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Interactivity-orange?style=flat-square" alt="UI/UX Focus" />
+<td width="55%" valign="top">
+<table width="100%">
+<tr>
+<td align="center" width="70px"><a href="https://github.com/BristiGhosh604"><img src="https://github.com/BristiGhosh604.png?size=80" width="50px" style="border-radius:50%;"/><br /><sub><b>Bristi Ghosh</b></sub></a></td>
+<td><b>Project Founder & Backend Lead</b><br /><img src="https://img.shields.io/badge/Focus-Backend%20%26%20APIs-blue?style=flat-square" /></td>
+</tr>
+<tr>
+<td align="center" width="70px"><a href="https://github.com/Lokesh-069"><img src="https://github.com/Lokesh-069.png?size=80" width="50px" style="border-radius:50%;"/><br /><sub><b>Lokesh Hazra</b></sub></a></td>
+<td><b>Frontend Lead & UI Architect</b><br /><img src="https://img.shields.io/badge/Focus-React%20%26%20UI%20Architecture-brightgreen?style=flat-square" /></td>
+</tr>
+<tr>
+<td align="center" width="70px"><a href="https://github.com/Sreoshi170"><img src="https://github.com/Sreoshi170.png?size=80" width="50px" style="border-radius:50%;"/><br /><sub><b>Sreoshi Bhowmik</b></sub></a></td>
+<td><b>Frontend Lead & UI/UX Design</b><br /><img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Interactivity-orange?style=flat-square" /></td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
@@ -47,7 +52,7 @@ QR-based, GPS-verified classroom attendance tracking system.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7015B6&height=120&section=footer" width="100%" alt="Footer Wave"/>
   <br />
   <p><i>Thanks for stopping by CodeBridge-Lab! 🚀</i></p>
 </div>
