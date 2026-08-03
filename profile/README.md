@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=680&lines=Welcome+to+CodeBridge-Lab+%F0%9F%90%A7;Building+Real-World+Systems;Collaborative+Dev+%26+Data+Science" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=9EEAE4&center=true&vCenter=true&width=680&lines=Welcome+to+CodeBridge-Lab+%F0%9F%90%A7;Building+Real-World+Systems;Collaborative+Dev+%26+Data+Science" alt="Typing Header" />
   </h1>
 
   <p><i>A collaborative development and data science lab dedicated to building production-ready applications.</i></p>
@@ -51,7 +51,7 @@ QR-based, GPS-verified classroom attendance tracking system.
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=91F7EF&height=120&section=footer" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9EEAE4&height=120&section=footer" width="100%" alt="Footer Wave"/>
   <br />
   <p><i>Thanks for stopping by CodeBridge-Lab! 🚀</i></p>
 </div>
