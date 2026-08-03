@@ -44,5 +44,7 @@ A collaborative dev & data science lab, founded and owned by [Bristi Ghosh](http
     </td>
   </tr>
 </table>
+
 ---
-*Thanks for stopping by CodeBridge-Lab!*
+
+ *Thanks for stopping by CodeBridge-Lab!*
