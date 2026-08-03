@@ -2,12 +2,12 @@
 
   <!-- Animated Header Title -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Welcome+to+CodeBridge-Lab+%F0%9F%90%A7;Building+Real-World+Systems;Collaborative+Dev+%26+Data+Science" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=680&lines=Welcome+to+CodeBridge-Lab+%F0%9F%90%A7;Building+Real-World+Systems;Collaborative+Dev+%26+Data+Science" alt="Typing Header" />
   </h1>
 
   <p><i>A collaborative development and data science lab dedicated to building production-ready applications.</i></p>
 
-  <!-- Founder/Owner Section -->
+  <!-- Owner Section -->
   <a href="https://github.com/BristiGhosh604">
     <img src="https://img.shields.io/badge/Founded%20%26%20Owned%20By-Bristi%20Ghosh-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Founder Badge" />
   </a>
@@ -20,7 +20,7 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 📱 **qr-attendance** | QR-based, GPS-verified attendance tracking system for classrooms with real-time verification. | `Java Spring Boot` `React` `MySQL` | [**View Repository**](https://github.com/CodeBridge-Lab/qr-attendance) |
+| 📱 **qr-attendance** | QR-based, GPS-verified attendance tracking system for classrooms with real-time verification. | <img src="https://img.shields.io/badge/Spring--Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> | [**View Repository**](https://github.com/CodeBridge-Lab/qr-attendance) |
 
 ---
 
