@@ -4,9 +4,6 @@ A collaborative dev & data science lab, founded and owned by [Bristi Ghosh](http
 
 ---
 
-### 👑 Owner
-- [Bristi Ghosh (@BristiGhosh604)](https://github.com/BristiGhosh604)
-
 ### 🚀 Projects - **[qr-attendance](https://github.com/CodeBridge-Lab/qr-attendance)**  
 QR-based, GPS-verified attendance system built with Java Spring Boot.
 
